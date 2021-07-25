@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS 7650
+title: CS 4641
 nav_exclude: true
 seo:
   type: Course
@@ -17,8 +17,11 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-- [Piazza](https://piazza.com/class/kj7vngax6ni7lt) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/218786) (homework assignments, submission and grading)
+- Please carefully read through the course details linked to the left.
+- Location: Clough Commons 144 (Lectures will also be broadcast and recorded using BlueJeans)
+- A tentative plan for the schedule (topics, deadlines, etc.) is available [here](https://docs.google.com/spreadsheets/d/1aqDI8Fpne6ZLCV2V0V-E7ybMNKcpVzqLJJHoO3Pj5Wg/edit?usp=sharing)
+- [Piazza](https://piazza.com/class/krjfpfjr3es38i)
+- [Gradescope](https://www.gradescope.com/courses/281746)
 
 {% for module in site.modules %}
 {{ module }}

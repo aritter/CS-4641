@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Course Details
 description: >-
     Course policies and information.
 ---
@@ -17,24 +17,25 @@ description: >-
 ---
 
 ## Lecture
-Mondays, Wednesdays 2:00-3:15pm
+- Mondays, Wednesdays 3:30-4:45pm
+- Location: Clough Commons 144 (Lectures will also be broadcast and recorded using BlueJeans)
+
 
 ## Textbook(s)
 
-There are two excellent NLP textbooks that are freely available online. Readings will be assigned from both.  There is value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
+There are two excellent ML textbooks that are freely available online. Readings will be assigned from both.  There is value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
 
-- [Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/)
-- [Jacob Eisenstein Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-- There will be other assigned readings as well.
+- [Hal Daumé III, A Course in Machine Learning](http://ciml.info/)
+- [Kevin P. Murphy, Probabilistic Machine Learning: An introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 ## Resources
 
-- [Piazza](https://piazza.com/class/kj7vngax6ni7lt)
-- [Gradescope](https://www.gradescope.com/courses/218786)
+- [Piazza](https://piazza.com/class/krjfpfjr3es38i)
+- [Gradescope](https://www.gradescope.com/courses/281746)
 
 ## Prerequisites
 
-This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multivariable calculus.  Having taken a prior machine learning course would be very helpful, but is not required.
+This is an undergraduate course on Machine Learning.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and calculus.
 
 ## Assignments / Grading
 
@@ -42,7 +43,7 @@ Graded work will include both written and programming assignments. Assignments s
 
 ### Programming Assignments (Projects) - 40%
 
-We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+We plan to assign three or four programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python.  Completing these projects will often require waiting for your models to train (this can range up to about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline, as ML algorithms are more difficult to debug than traditional computer programs.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
 
 ### Written Assignments (Problem Sets) - 20%
 
