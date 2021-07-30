@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-- Please carefully read through the course details linked to the left.
+- Please carefully read through the course details and FAQ linked to the left.
 - Location: Clough Commons 144 (Lectures will also be broadcast and recorded using BlueJeans)
 - A tentative plan for the schedule (topics, deadlines, etc.) is available [here](https://docs.google.com/spreadsheets/d/1aqDI8Fpne6ZLCV2V0V-E7ybMNKcpVzqLJJHoO3Pj5Wg/edit?usp=sharing)
 - [Piazza](https://piazza.com/class/krjfpfjr3es38i)
