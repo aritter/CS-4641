@@ -23,4 +23,4 @@ description: >-
 - A: We are planning to broadcast the lectures using BlueJeans, and graded coursework will be submitted online, so this should be possible.  Please bear with us in the event of any technical difficulties.
 
 ## Q: I have a question, how can I contact the course staff?
-- A: The best place to try first is [Piazza](https://piazza.com/class/krjfpfjr3es38i).  If it is a question that may apply to others as well, please ask publicly so that everyone can benefit from the answer.
+- A: The best place to try first is [Piazza](https://piazza.com/class/krjfpfjr3es38i).  If it is a question that may apply to others, please ask publicly so that everyone can benefit from the answer.
