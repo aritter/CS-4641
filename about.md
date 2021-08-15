@@ -55,7 +55,7 @@ The midterm will be similar in format to the written assignments (problem sets),
 
 ### Participation - 5%
 
-You will receive credit for asking and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class.
+You will receive credit for asking and answering questions related to the homework on Piazza, engaging in discussion in class (or asking questions on BlueJeans) and generally for participating in the class.
 
 ### Final Project - 20%
 
