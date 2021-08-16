@@ -18,7 +18,6 @@ description: >-
 
 ## Lecture
 - Mondays, Wednesdays 3:30-4:45pm
-# - Location: Clough Commons 144 (Lectures will also be broadcast and recorded using BlueJeans)
 
 
 ## Textbook(s)
