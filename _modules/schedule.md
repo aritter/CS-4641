@@ -3,7 +3,7 @@ title: Schedule
 ---
 
 Aug 23
-: [Course Introduction]()
+: [Course Introduction](https://github.com/aritter/CS-4641/raw/main/slides/introduction.pdf)
   : [PML Chapter 1](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 Aug 25
