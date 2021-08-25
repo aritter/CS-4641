@@ -8,7 +8,7 @@ Aug 23
 
 Aug 25
 : [Decision Trees]()
-  : [CIML Chapter 1](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf)
+  : [CIML Chapter 1](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) [(Quinlan, 1986)](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
 
 Aug 30
 : [Statistical Estimation]() (Problem Set 1 due)
