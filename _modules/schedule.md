@@ -11,7 +11,7 @@ Aug 25
   : [CIML Chapter 1](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) [(Quinlan, 1986)](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
 
 Aug 30
-: [Statistical Estimation]() (Problem Set 1 due)
+: [Statistical Estimation](https://github.com/aritter/CS-4641/raw/main/slides/estimation.pdf) (Problem Set 1 due)
   : [PML 2.1-2.3](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 Sep 1
