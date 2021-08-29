@@ -16,3 +16,6 @@ Aug 30
 
 Sep 1
 : No Class (No Class - Alan is speaking at the University of Notre Dame)
+
+Sep 13
+: [Project 1 Due](https://colab.research.google.com/drive/1ar34O8xpE_oRK5tjx22oRcKwsCtEE_LM)
