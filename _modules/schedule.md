@@ -19,6 +19,7 @@ Sep 1
 
 Sep 8
 : Statistical Estimation (cont.)
+  : [PML 4.1-4.2.5](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 Sep 13
 : [Project 1 Due](https://colab.research.google.com/drive/1ar34O8xpE_oRK5tjx22oRcKwsCtEE_LM)
