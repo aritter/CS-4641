@@ -22,4 +22,5 @@ Sep 8
   : [PML 4.1-4.2.5](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 Sep 13
-: [Project 1 Due](https://colab.research.google.com/drive/1ar34O8xpE_oRK5tjx22oRcKwsCtEE_LM)
+: [Naive Bayes](https://github.com/aritter/CS-4641/raw/main/slides/naive_bayes.pdf) [Project 1 Due](https://colab.research.google.com/drive/1ar34O8xpE_oRK5tjx22oRcKwsCtEE_LM)
+  : [CIML 9.1-9.5](http://ciml.info/dl/v0_99/ciml-v0_99-ch09.pdf)
