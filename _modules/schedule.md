@@ -24,3 +24,12 @@ Sep 8
 Sep 13
 : [Naive Bayes](https://github.com/aritter/CS-4641/raw/main/slides/naive_bayes.pdf) ([Project 1 Due](https://colab.research.google.com/drive/1ar34O8xpE_oRK5tjx22oRcKwsCtEE_LM))
   : [CIML 9.1-9.5](http://ciml.info/dl/v0_99/ciml-v0_99-ch09.pdf), [PML 2.5.4](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+
+Sep 20
+: [Linear Regression](https://github.com/aritter/CS-4641/raw/main/slides/linear_regression.pdf)
+  : [PML 11.1-11.2](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+
+Sep 22
+: [Logistic Regression](https://github.com/aritter/CS-4641/raw/main/slides/logistic_regression.pdf)
+  : [PML 10.1-10.3](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+
