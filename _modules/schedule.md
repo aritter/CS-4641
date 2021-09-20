@@ -33,3 +33,5 @@ Sep 22
 : [Logistic Regression](https://github.com/aritter/CS-4641/raw/main/slides/logistic_regression.pdf)
   : [PML 10.1-10.3](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
+Oct 5
+: Problem Set 2 Due
