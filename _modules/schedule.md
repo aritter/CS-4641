@@ -27,7 +27,7 @@ Sep 13
 
 Sep 20
 : [Linear Regression](https://github.com/aritter/CS-4641/raw/main/slides/linear_regression.pdf)
-  : [PML 11.1-11.2](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+  : [PML 11.1-11.2](https://github.com/probml/pml-book/releases/latest/download/book1.pdf), [CIML 9.6-9.7](http://ciml.info/dl/v0_99/ciml-v0_99-ch09.pdf)
 
 Sep 22
 : [Logistic Regression](https://github.com/aritter/CS-4641/raw/main/slides/logistic_regression.pdf)
