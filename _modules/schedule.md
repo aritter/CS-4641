@@ -38,7 +38,7 @@ Sep 27
   : [CIML Chapter 4](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)
 
 Oct 4
-: Kernels (https://github.com/aritter/CS-4641/raw/main/slides/kernels.pdf)
+: [Kernels](https://github.com/aritter/CS-4641/raw/main/slides/kernels.pdf)
   : [CIML Chapter 11](http://ciml.info/dl/v0_99/ciml-v0_99-ch11.pdf)
   
 Oct 5
