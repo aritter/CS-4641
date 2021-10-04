@@ -37,5 +37,12 @@ Sep 27
 : Logistic Regression (cont) and [Perceptron](https://github.com/aritter/CS-4641/raw/main/slides/perceptron.pdf)
   : [CIML Chapter 4](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)
 
+Oct 4
+: Kernels (https://github.com/aritter/CS-4641/raw/main/slides/kernels.pdf)
+  : [CIML Chapter 11](http://ciml.info/dl/v0_99/ciml-v0_99-ch11.pdf)
+  
 Oct 5
 : Problem Set 2 Due
+
+Oct 25
+: ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing)
