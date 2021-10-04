@@ -45,4 +45,4 @@ Oct 5
 : Problem Set 2 Due
 
 Oct 25
-: ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing)
+: ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
