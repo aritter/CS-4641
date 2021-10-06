@@ -42,7 +42,7 @@ Oct 4
   : [CIML Chapter 11](http://ciml.info/dl/v0_99/ciml-v0_99-ch11.pdf)
 
 Oct 6
-: [SVMs](https://github.com/aritter/CS-4641/raw/main/slides/kernels.pdf)
+: [SVMs](https://github.com/aritter/CS-4641/raw/main/slides/svm.pdf)
   : [CIML Chapter 7](http://ciml.info/dl/v0_99/ciml-v0_99-ch07.pdf)
   
 Oct 5
