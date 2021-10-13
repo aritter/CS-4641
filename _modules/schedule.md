@@ -48,5 +48,8 @@ Oct 6
 Oct 5
 : Problem Set 2 Due
 
+Oct 13
+: [Course Project](https://github.com/aritter/CS-4641/raw/main/slides/project.pdf) and SVMs (cont.)
+
 Oct 25
 : ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
