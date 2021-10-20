@@ -52,5 +52,9 @@ Oct 13
 : [Course Project](https://github.com/aritter/CS-4641/raw/main/slides/project.pdf) and [Boosting](https://github.com/aritter/CS-4641/raw/main/slides/boosting.pdf)
   : [CIML Chapter 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) and [PML 18.5](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
+Oct 20
+: [Neural Networks]()
+  : [CIML Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf)
+
 Oct 25
 : ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
