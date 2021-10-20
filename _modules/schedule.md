@@ -53,7 +53,7 @@ Oct 13
   : [CIML Chapter 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) and [PML 18.5](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 Oct 20
-: [Neural Networks]()
+: [Neural Networks](https://github.com/aritter/CS-4641/raw/main/slides/nn.pdf)
   : [CIML Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf)
 
 Oct 25
