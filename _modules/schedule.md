@@ -56,5 +56,5 @@ Oct 20
 : [Neural Networks](https://github.com/aritter/CS-4641/raw/main/slides/nn.pdf)
   : [CIML Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf)
 
-Oct 25
+Oct 29
 : ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
