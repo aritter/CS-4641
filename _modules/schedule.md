@@ -58,7 +58,7 @@ Oct 20
 
 Oct 27
 : [Unsupervised Learning / EM Algorithm](https://github.com/aritter/CS-4641/raw/main/slides/em.pdf)
-  : [CIML Chapter 16](http://ciml.info/dl/v0_99/ciml-v0_99-ch16.pdf)
+  : [CIML Chapter 16](http://ciml.info/dl/v0_99/ciml-v0_99-ch16.pdf) [Notes on the EM Algorithm](http://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf)
 
 Oct 29
 : ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
