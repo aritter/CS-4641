@@ -62,3 +62,9 @@ Oct 27
 
 Oct 29
 : ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
+
+Nov 5
+: Take-Home Midterm Due
+
+Nov 22
+: [Project 3 Due](https://colab.research.google.com/drive/1bGqBipvK2cLrTv79P9R2XwoRC-fiSIzt)
