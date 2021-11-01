@@ -38,7 +38,7 @@ This is an undergraduate course on Machine Learning.  The course will involve a 
 
 ## Assignments / Grading
 
-Graded work will include both written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due.  Each student will have 3 flexible days to turn in late homework throughout the semester.  The flexible days can be used in case of illness, or any other reason that you may need extra time to complete the assignment.  As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late.  Please email your homework to the instructor in case of any technical issues with submission.  The final project reports will not be accepted late.
+Graded work will include both written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due.  Each student will have 3 flexible days to turn in late homework throughout the semester.  The flexible days can be used in case of illness, or any other reason that you may need extra time to complete the assignment.  As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late.  Please email your homework to the instructor in case of any technical issues with submission.  Final project reports will not be accepted late.
 
 ### Programming Assignments (Projects) - 40%
 
