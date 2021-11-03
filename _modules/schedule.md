@@ -63,12 +63,13 @@ Oct 27
 Oct 29
 : ([Project 2 Due](https://colab.research.google.com/drive/1PP8DWYP73NEGZzuNv-ilabkJ8NuoLBR8?usp=sharing))
 
-Nov 2
+Nov 3
 : [CNNs](https://github.com/aritter/CS-4641/raw/main/slides/cnn.pdf)
   : [PML Chapter 14](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
 Nov 8
-: Midterm Due
+: No Class
+  : Midterm Due
 
 Nov 22
 : [Project 3 Due](https://colab.research.google.com/drive/1bGqBipvK2cLrTv79P9R2XwoRC-fiSIzt)
