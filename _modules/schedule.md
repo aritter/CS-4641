@@ -71,6 +71,9 @@ Nov 8
 : No Class
   : Midterm Due
 
+Nov 17
+: No Class (DARPA site visit)
+
 Nov 22
 : [Project 3 Due](https://colab.research.google.com/drive/1bGqBipvK2cLrTv79P9R2XwoRC-fiSIzt)
 
