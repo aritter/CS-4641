@@ -75,4 +75,4 @@ Nov 22
 : [Project 3 Due](https://colab.research.google.com/drive/1bGqBipvK2cLrTv79P9R2XwoRC-fiSIzt)
 
 Dec 10
-: Final Project Reports Due (No late reports accedpted)
+: Final Project Reports Due (No late days)
