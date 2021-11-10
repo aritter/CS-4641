@@ -67,6 +67,10 @@ Nov 3
 : [CNNs](https://github.com/aritter/CS-4641/raw/main/slides/cnn.pdf)
   : [PML Chapter 14](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 
+Nov 10
+: [Neural Nets for Sequences](https://github.com/aritter/CS-4641/raw/main/slides/nn_text.pdf)
+  : [PML Chapter 15](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+
 Nov 8
 : No Class
   : Midterm Due
