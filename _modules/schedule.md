@@ -78,8 +78,12 @@ Nov 15
 Nov 17
 : No Class (DARPA site visit)
 
-Nov 22
+Nov 30
 : [Project 3 Due](https://colab.research.google.com/drive/1bGqBipvK2cLrTv79P9R2XwoRC-fiSIzt)
+
+Dec 1
+: [Generative Models](https://github.com/aritter/CS-4641/raw/main/slides/generative_models.pdf)
+  : [Tutorial on VAEs](https://arxiv.org/pdf/1812.06834.pdf)
 
 Dec 10
 : Final Project Reports Due (No late days)
